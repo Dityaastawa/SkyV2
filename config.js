@@ -9,9 +9,9 @@ global.owner = [
   ['62895347198105', '️Oᴡɴᴇʀ Sky-MD', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['62895347198105'] // Want some help?
-global.prems = ['62895347198105'] // Premium user has unlimited limit
-global.girlfren = ['62895347198105'] // Your gf/pacar
+global.mods = ['6285237596750'] // Want some help?
+global.prems = ['6285237596750'] // Premium user has unlimited limit
+global.girlfren = ['6285237596750'] // Your gf/pacar
 
 //Api website
 global.APIs = { // API Prefix
@@ -63,15 +63,15 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289636219593'
-global.nomorown = '62895347198105'
-global.namebot = '↻Sky-𝕸𝕯'
-global.nameown = 'ARIF XZ ✰'
+global.nomorbot = '6285792429148'
+global.nomorown = '6285237596750'
+global.namebot = '↻Dityabotz-𝕸𝕯'
+global.nameown = 'DITYA ASTAWA ✰'
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sky-𝕸𝕯 あ⁩ 」' //Main Watermark
+global.wm = '                「 Dityabotz-𝕸𝕯 あ⁩ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ↻SKY-𝕸𝕯'
+global.wm3 = '⫹⫺ ↻DITYABOTZ-𝕸𝕯'
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}`
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
@@ -359,9 +359,9 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `↻Sky-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `↻Dityabotz-𝕸𝕯\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = "ARIF XZ ✰"
+global.author = "DITYA ASTAWA ✰"
 global.multiplier = 69 // The higher, The harder levelup
 
 /*============== ERR ==============*/
