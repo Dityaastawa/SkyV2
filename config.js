@@ -370,22 +370,22 @@ global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'//Your Website
 global.logo = "https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg"//Your logo
-global.gcwangsaf = "https://chat.whatsapp.com/KS51Xw91eju8HTv5owtV1z"//Link Group whatsapp
+global.gcwangsaf = "https://chat.whatsapp.com/ItmAE6roJjQIOru4wqkYQz"//Link Group whatsapp
 
 /*============== PAYMENT ==============*/
 global.saweria = "https://saweria.co/aldashakila"// website saweria.co
-global.dana = ["0895347198105"]
-global.pulsa = ["089636219593"]//pulsa here
+global.dana = ["085792429140"]
+global.pulsa = ["085792426140"]//pulsa here
 global.trakteer = "--"//Link url https://
-global.paypal = "aldashakila23@gmail.com"//paypal email
-global.gopay = "089636219593"//Numver for Payment digital Gopay Gojek
+global.paypal = "dityaastawa2@gmail.com"//paypal email
+global.gopay = "gak ada"//Numver for Payment digital Gopay Gojek
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895347198105'
-global.povo = '0895347198105'
-global.pgopay = '089636219593'
-global.ppulsa = '089636219593'
-global.ppulsa2 = '0895347198105'
+global.pdana = '085792429140'
+global.povo = '085792429140'
+global.pgopay = '085792429140'
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085792429140'
 global.psaweria = 'https://saweria.com/aldashakila'
 
 //Rpg
